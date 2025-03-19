@@ -57,7 +57,7 @@ int main() {
 			Console->CWait(2400);
 			Console->CExit();
 			break;
-		 
+		  // add your own case statement for case 2: what would be for cleaning!
 		}
 	}
 }
