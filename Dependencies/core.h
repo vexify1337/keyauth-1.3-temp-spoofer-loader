@@ -30,7 +30,7 @@ public:
 		exit(0);
 	}
 	void Branding() {
-		SetConsoleTitle(L"Beat Spoofer -> source code: https://discord.gg/vexify1337, made with 💝 By UE5");
+		SetConsoleTitle(L"Beat Spoofer -> source code: https://github.com/vexify1337, made with 💝 By UE5");
 		CMsg("  _                _                            __           \n"
 			" | |__   ___  __ _| |_   ___ _ __   ___   ___  / _| ___ _ __ \n"
 			" | '_ \\ / _ \\/ _` | __| / __| '_ \\ / _ \\ / _ \\| |_ / _ \\ '__|\n"
