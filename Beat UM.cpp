@@ -19,7 +19,7 @@ std::string path = BeatEncrypt(""); // (OPTIONAL) see tutorial here https://www.
 
 api BeatAuth(name, ownerid, version, url, path);
 
-// taking our class from SpooferUM/driver.h we will now make a proper loader.
+// taking our struct from SpooferUM/driver.h we will now make a proper loader.
 int spoofer;
 std::string tkn;
 int main() {
