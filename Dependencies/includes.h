@@ -1,0 +1,6 @@
+#include "iostream"
+#include "Windows.h"
+#include "../ScriptKiddy_Mapper/include/kdmapper.hpp"
+#include "../SpooferUM/driver.h"
+#include "../SpooferUM/byte.h"
+#include "../Authentication/Obfuscation/oxorany_include.h"
